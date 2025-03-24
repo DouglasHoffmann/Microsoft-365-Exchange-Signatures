@@ -1,0 +1,10 @@
+
+DB_SERVER=
+DB_NAME=
+DB_USER=
+DB_PASSWORD=
+
+TENANT_ID=
+CLIENT_ID=
+CLIENT_SECRET=
+GRAPH_URL=https://graph.microsoft.com/v1.0
